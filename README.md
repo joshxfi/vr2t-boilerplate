@@ -1,6 +1,6 @@
-# VR2T Boilerplate ⚡
+# VR2T Boilerplate 💨
 VR2T [ *VR-TT* ] stands for [Vite](https://github.com/vitejs/vite) - [React](https://github.com/microsoft/TypeScript) - [TypeScript](https://github.com/microsoft/TypeScript) - [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)
-> It's fast & faster than create-react-app! 🏃‍♂️
+> It's fast & faster than create-react-app! 🏃‍♂
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -15,7 +15,7 @@ Choose an option:
   * Replace the `<project-name>` with the title of your project.
 
 ## Quick Start
-* Change directory to your project:
+* Change the directory to your project:
 ```shell
 cd <project-name>
 ```
