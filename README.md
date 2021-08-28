@@ -13,7 +13,7 @@ Choose an option:
   * Rename the folder to your project's name.
 * Clone the repo — 
 ```shell
-git clone https://github.com/joshxfi/vret-boilerplate.git <project-name>
+git clone https://github.com/joshxfi/vr2t-boilerplate <project-name>
 ```
 > Replace the `<project-name>` with the title of your project.
 
