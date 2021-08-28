@@ -7,14 +7,15 @@ VR2T [ *VR-TT* ] stands for [Vite](https://github.com/vitejs/vite) - [React](htt
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-> It's fast & faster than create-react-app!
-
 ## Installation
 Choose an option:
 * Download as .ZIP then extract/unzip.
   * Rename the folder to your project's name.
-* Clone the repo — `git clone https://github.com/joshxfi/vret-boilerplate.git <project-name>`
-  * Replace the `<project-name>` with the title of your project.
+* Clone the repo — 
+```shell
+git clone https://github.com/joshxfi/vret-boilerplate.git <project-name>
+```
+> Replace the `<project-name>` with the title of your project.
 
 ## Quick Start
 * Change the directory to your project:
